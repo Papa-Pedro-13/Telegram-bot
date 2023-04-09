@@ -16,13 +16,5 @@
     "pg-hstore": "^2.3.3",
     "sequelize": "^6.30.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/utimur/telegram-bot-course.git"
-  },
-  "bugs": {
-    "url": "https://github.com/utimur/telegram-bot-course/issues"
-  },
-  "homepage": "https://github.com/utimur/telegram-bot-course#readme",
   "description": ""
 }
